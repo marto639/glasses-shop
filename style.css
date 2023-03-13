@@ -111,3 +111,23 @@ body {
     width: 443px;
     color: #044C51;
 }
+
+#options {
+    position: relative;
+    bottom: 100em;
+    border: 2px solid #C366BB;
+    padding: 8px 4px;
+    color: #C366BB;
+    font-size: 15px;
+}
+
+#cart {
+    position: relative;
+    bottom: 100em;
+    left: 3em;
+    border: 2px solid #C366BB;
+    padding: 8px 4px;
+    background-color: #C366BB;
+    color: #FFFFFF;
+    font-size: 15px;
+}
